@@ -1,0 +1,43 @@
+body{
+    text-align: left;
+    background-color: #CDB7F6;
+  }
+  header{
+    text-align:center;
+    margin: 2em auto;
+  }
+  form{
+    background-color: #B19CD9;
+    padding: 2em 2em;
+    margin: 1em 2em;
+    border-radius: 9%;
+  }
+  
+  .form-group{
+    margin: 1em 6%;
+  }
+  .form-control,textarea{
+    font-size: 0.8em;
+    width:100%;
+    margin: 0.5em auto;
+    border-radius: 8px;
+    line-height:2em;
+  }
+  p,
+  label{
+        font-size: 1.3em;
+    }
+  
+  .radio{
+      display: block;
+      float:display-inside;
+}
+  button{
+    width:100%;
+    line-height: 2em;
+  }
+  button:hover{
+    background-color:#8B007A;
+    color: #fff;
+    cursor: pointer;
+  }
